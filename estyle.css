@@ -30,9 +30,9 @@ main menu .logo{
 
 main menu .logo h1{
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.3em;
     padding: 3px;
-    letter-spacing:4px;
+    letter-spacing:3px;
     font-family: "Whisper", cursive;
     opacity: 88%;
 }
@@ -45,9 +45,7 @@ main menu .logo .p2{
 }
 
 main menu .logo h1 span{
-    text-align: center;
-   padding: 10px;
-   font-size: 1em;
+   font-size: 0.7em;
    opacity: 80%;
 }
 
