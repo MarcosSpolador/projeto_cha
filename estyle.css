@@ -23,8 +23,6 @@ header{
     width: 100vw;
     height: 205px;
     text-align: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 img{
@@ -38,9 +36,9 @@ img{
 
 .logo h1{
     text-align: center;
-    font-size: 2.2em;
+    font-size: 1.3em;
     padding: 3px;
-    letter-spacing: 6px;
+    letter-spacing:4px;
     font-family: "Whisper", cursive;
     opacity: 88%;
 }
@@ -52,6 +50,8 @@ img{
 }
 
 .logo h1 span{
+    text-align: center;
+   padding: 10px;
    font-size: 1em;
    opacity: 80%;
 }
