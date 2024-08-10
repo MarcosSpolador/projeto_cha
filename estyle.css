@@ -37,8 +37,7 @@ img{
 
 .logo h1{
     text-align: center;
-    font-size: 1.4em;
-    padding: 3px;
+    font-size: 1.3em;
     letter-spacing: 2px;
     font-family: "Whisper", cursive;
     opacity: 80%;
@@ -51,7 +50,7 @@ img{
 }
 
 .logo h1 span{
-   padding: 8px;
+   padding: 7px;
 }
 
 menu{
