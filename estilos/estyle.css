@@ -16,7 +16,7 @@ body {
 }
 
 header{
-    background-image: url(img/img-pag.jpg);
+    background-image: url(../img/fundo.png);
     opacity: 90%;
     width: 100vw;
     height: 205px;
@@ -108,7 +108,7 @@ menu a:hover{
 }
 
 footer{
-    background-image: url(img/img-pag.jpg);
+    background-image: url(../img/fundo.png);
     transform:rotate(180deg);
     width: 100vw;
     height: 200px;
