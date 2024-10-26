@@ -49,11 +49,11 @@ main menu .logo{
 }
 
 .logo h1{
-    font-weight: 100;
+    font-weight: 400;
     text-align: center;
-    font-size: 5em;
-    padding: 3px;
-    letter-spacing:2px;
+    font-size: 4em;
+    padding: 2px;
+    letter-spacing:1px;
     color: #64765b;
     font-family: "Beau Rivage", cursive;
     opacity: 75%;
